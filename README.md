@@ -1,23 +1,26 @@
-# Proyectos de IA inspirados en el canal Dot CSV.
+# Proyectos de IA inspirados en el canal Dot CSV
 
 Dot CSV es un canal de [YouTube](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg "YouTube") creado por [Carlos Santana Vega](https://github.com/dotcsv "Carlos Santana Vega") y especializado en Machine Learning e Inteligencia Artificial.
 
 Este repositorio contiene los cuadernos de las sesiones de código (IA Notebooks). Estos cuadernos están comentados y explicados por un [un servidor](https://meluiscruz.com/ "un servidor").
 
-## Métricas del proyecto.
+## Métricas del proyecto
 
-![](https://img.shields.io/github/stars/Meluiscruz/IA_Notebooks_de_Dot_CSV.svg) ![](https://img.shields.io/github/forks/Meluiscruz/IA_Notebooks_de_Dot_CSV.svg) ![](https://img.shields.io/github/issues/Meluiscruz/IA_Notebooks_de_Dot_CSV.svg)![](https://img.shields.io/github/tag/Meluiscruz/IA_Notebooks_de_Dot_CSV.svg)
+![stars](https://img.shields.io/github/stars/Meluiscruz/IA_Notebooks_de_Dot_CSV.svg)
+![forks](https://img.shields.io/github/forks/Meluiscruz/IA_Notebooks_de_Dot_CSV.svg)
+![issues](https://img.shields.io/github/issues/Meluiscruz/IA_Notebooks_de_Dot_CSV.svg)
+![tags](https://img.shields.io/github/tag/Meluiscruz/IA_Notebooks_de_Dot_CSV.svg)
 
-# Tabla de contenidos.
+## Tabla de contenidos
 
 En este proyecto encontrarán los siguientes cuadernos:
 
- - [ ] Regresión Lineal y Mínimos Cuadrados Ordinarios.
- - [ ] Ataques adversarios, cómo romper una RED NEURONAL.
- - [x] Descenso del Gradiente (Gradient Descent).
- - [x] Programando Red Neuronal desde Cero.
- - [ ] Generando FLORES realistas con IA - Pix2Pix .
- - [ ] Programa el Juego de La Vida... en 10 MINUTOS.
+- [ ] Regresión Lineal y Mínimos CuadradosOrdinarios.
+- [ ] Ataques adversarios, cómo romper unaRED NEURONAL.
+- [x] Descenso del Gradiente (GradientDescent).
+- [x] Programando Red Neuronal desde Cero.
+- [ ] Generando FLORES realistas con IA -Pix2Pix.
+- [ ] Programa el Juego de La Vida... en 10MINUTOS.
 
 ## ¿Por qué estoy desarrollando este repositorio?
 
@@ -37,7 +40,7 @@ Hasta el dìa de hoy (2 de marzo, 2021), ya estan disponibles los cuadernos 3 y 
 
 Los cuadernos estan desarrollados en Jupyter Notebooks y en Google Colab. Las librerìas de Python más utilizadas en estos proyectos son:
 
- - Numpy.
- - Scipy.
- - Matplotlib.
- - SK learn.
+- Numpy.
+- Scipy.
+- Matplotlib.
+- SK learn.
