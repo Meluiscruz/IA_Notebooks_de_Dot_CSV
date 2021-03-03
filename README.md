@@ -14,7 +14,7 @@ En este proyecto encontrarán los siguientes cuadernos:
 
  - [ ] Regresión Lineal y Mínimos Cuadrados Ordinarios.
  - [ ] Ataques adversarios, cómo romper una RED NEURONAL.
- - [ ] Descenso del Gradiente (Gradient Descent).
+ - [x] Descenso del Gradiente (Gradient Descent).
  - [x] Programando Red Neuronal desde Cero.
  - [ ] Generando FLORES realistas con IA - Pix2Pix .
  - [ ] Programa el Juego de La Vida... en 10 MINUTOS.
@@ -31,9 +31,9 @@ Los cuadernos que se desarrollaron en el canal Dot CSV, con el valor agregado de
 
 ## ¿Qué está pendiente por desarrollar?
 
-Hasta el dìa de hoy (5 de febrero, 2021), solo está disponible el cuaderno 4. En la tabla de contenidos hay un checklist de los cuadernos que estan disponibles en el repositorio.
+Hasta el dìa de hoy (2 de marzo, 2021), ya estan disponibles los cuadernos 3 y 4. En la tabla de contenidos hay un checklist de los cuadernos que estan disponibles en el repositorio.
 
-## Información técnica.
+## Información técnica
 
 Los cuadernos estan desarrollados en Jupyter Notebooks y en Google Colab. Las librerìas de Python más utilizadas en estos proyectos son:
 
