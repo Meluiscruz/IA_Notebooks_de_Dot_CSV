@@ -19,8 +19,8 @@ En este proyecto encontrarán los siguientes cuadernos:
 - [ ] Ataques adversarios, cómo romper una RED NEURONAL.
 - [x] Descenso del Gradiente (Gradient Descent).
 - [x] Programando Red Neuronal desde Cero.
-- [ ] Generando FLORES realistas con IA -Pix2Pix.
-- [ ] Programa el Juego de La Vida... en 10MINUTOS.
+- [ ] Generando FLORES realistas con IA - Pix2Pix.
+- [ ] Programa el Juego de La Vida... en 10 MINUTOS.
 
 ## ¿Por qué estoy desarrollando este repositorio?
 
