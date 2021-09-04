@@ -15,9 +15,9 @@ Este repositorio contiene los cuadernos de las sesiones de código (IA Notebooks
 
 En este proyecto encontrarán los siguientes cuadernos:
 
-- [ ] Regresión Lineal y Mínimos CuadradosOrdinarios.
-- [ ] Ataques adversarios, cómo romper unaRED NEURONAL.
-- [x] Descenso del Gradiente (GradientDescent).
+- [ ] Regresión Lineal y Mínimos Cuadrados Ordinarios.
+- [ ] Ataques adversarios, cómo romper una RED NEURONAL.
+- [x] Descenso del Gradiente (Gradient Descent).
 - [x] Programando Red Neuronal desde Cero.
 - [ ] Generando FLORES realistas con IA -Pix2Pix.
 - [ ] Programa el Juego de La Vida... en 10MINUTOS.
